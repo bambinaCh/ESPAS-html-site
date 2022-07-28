@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 749.05 540">
+  <defs>
+    <clipPath id="a" transform="translate(0 0)">
+      <rect width="749" height="540" fill="none"></rect>
+    </clipPath>
+    <clipPath id="b" transform="translate(0 0)">
+      <rect x="477.44" y="394.32" width="27.24" height="25.32" fill="none"></rect>
+    </clipPath>
+  </defs>
+  <title>ZLI_Modulbauplan_Informatiker-Applikationsentwicklung</title>
+  <rect x="35.24" y="103.92" width="684" height="379.92" fill="none"></rect>
+  <rect x="35.24" y="103.92" width="684" height="379.92" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect x="37.75" y="106.75" width="180" height="25.25" fill="#d9e2f3"></rect>
+  <rect x="224.54" y="106.75" width="185.75" height="25.25" fill="#d9e2f3"></rect>
+  <rect x="320.79" y="135.72" width="89.5" height="51.63" fill="#b4c6e7"></rect>
+  <rect x="320.79" y="191.06" width="89.5" height="41" fill="#b4c6e7"></rect>
+  <rect x="320.79" y="235.78" width="89.5" height="41" fill="#fff2cc"></rect>
+  <rect x="320.79" y="280.5" width="89.5" height="41" fill="#fff2cc"></rect>
+  <rect x="320.79" y="325.22" width="89.5" height="41" fill="#fff2cc"></rect>
+  <rect x="320.79" y="369.94" width="89.5" height="30.81" fill="#fff2cc"></rect>
+  <rect x="320.79" y="404.47" width="89.5" height="40.91" fill="#fff2cc"></rect>
+  <rect x="320.79" y="449.09" width="89.5" height="31.41" fill="#fff2cc"></rect>
+  <rect x="224.54" y="135.72" width="89.5" height="51.63" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="135.72" width="87" height="51.63" fill="#d9d9d9"></rect>
+  <rect x="131.15" y="135.72" width="87" height="51.63" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="191.06" width="87" height="41" fill="#d9d9d9"></rect>
+  <rect x="131.15" y="191.06" width="87" height="41" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="235.78" width="87" height="41" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="280.5" width="87" height="41" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="325.22" width="87" height="41" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="369.94" width="87" height="30.81" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="404.47" width="87" height="40.91" fill="#d9d9d9"></rect>
+  <rect x="37.75" y="449.09" width="87" height="31.41" fill="#b4c6e7"></rect>
+  <rect x="131.15" y="235.78" width="87" height="41" fill="#fff2cc"></rect>
+  <rect x="224.54" y="191.06" width="89.5" height="41" fill="#b4c6e7"></rect>
+  <rect x="224.54" y="235.78" width="89.5" height="41" fill="#d9d9d9"></rect>
+  <rect x="224.54" y="280.5" width="89.5" height="41" fill="#b4c6e7"></rect>
+  <rect x="224.54" y="325.22" width="89.5" height="41" fill="#b4c6e7"></rect>
+  <rect x="224.54" y="369.94" width="89.5" height="30.81" fill="#b4c6e7"></rect>
+  <rect x="224.54" y="404.47" width="89.5" height="40.91" fill="#b4c6e7"></rect>
+  <rect x="224.54" y="449.09" width="89.5" height="31.41" fill="#d9d9d9"></rect>
+  <rect x="417.08" y="106.75" width="186.75" height="25.25" fill="#d9e2f3"></rect>
+  <rect x="610.63" y="106.75" width="106.88" height="25.25" fill="#d9e2f3"></rect>
+  <rect x="610.63" y="135.72" width="106.88" height="51.63" fill="#b4c6e7"></rect>
+  <rect x="514.55" y="135.72" width="89.45" height="51.63" fill="#fff2cc"></rect>
+  <rect x="417.25" y="135.72" width="89.45" height="51.63" fill="#b4c6e7"></rect>
+  <rect x="514.55" y="191.06" width="89.45" height="41" fill="#fff2cc"></rect>
+  <rect x="417.25" y="191.06" width="89.45" height="41" fill="#b4c6e7"></rect>
+  <rect x="514.55" y="235.78" width="89.45" height="41" fill="#fff2cc"></rect>
+  <rect x="417.25" y="235.78" width="89.45" height="41" fill="#b4c6e7"></rect>
+  <rect x="514.55" y="280.5" width="89.45" height="41" fill="#fff2cc"></rect>
+  <rect x="417.25" y="280.5" width="89.45" height="41" fill="#d9d9d9"></rect>
+  <rect x="514.55" y="325.22" width="89.45" height="41" fill="#fff2cc"></rect>
+  <rect x="610.63" y="191.06" width="106.88" height="41" fill="#b4c6e7"></rect>
+  <rect x="610.63" y="235.78" width="106.88" height="41" fill="#d9d9d9"></rect>
+  <rect x="610.63" y="280.5" width="106.88" height="41" fill="#d9d9d9"></rect>
+  <rect x="130.1" y="189.7" width="22.92" height="19.68" rx="3.28" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="130.1" y="189.7" width="22.92" height="19.68" rx="3.28" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect x="130.1" y="134.38" width="22.92" height="19.56" rx="3.26" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <rect x="130.1" y="134.38" width="22.92" height="19.56" rx="3.26" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="319.3" y="134.38" width="22.92" height="19.56" rx="3.26" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="319.3" y="134.38" width="22.92" height="19.56" rx="3.26" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <rect x="319.5" y="190.62" width="21.72" height="17.76" rx="2.96" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="319.5" y="190.62" width="21.72" height="17.76" rx="2.96" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <rect x="318.9" y="235.14" width="22.92" height="19.56" rx="3.26" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="318.9" y="235.14" width="22.92" height="19.56" rx="3.26" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <rect x="512.66" y="189.94" width="22.92" height="19.68" rx="3.28" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="512.66" y="189.94" width="22.92" height="19.68" rx="3.28" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <rect x="512.66" y="134.38" width="22.92" height="19.56" rx="3.26" fill="#99c23b" opacity="0.18" style="isolation:isolate"></rect>
+  <rect x="512.66" y="134.38" width="22.92" height="19.56" rx="3.26" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="2.04"></rect>
+  <g style="isolation:isolate">
+    <text transform="translate(613.22 531.87)" font-size="8.04" fill="#595959" font-family="ArialMT, Arial" style="isolation:isolate">© IC<tspan x="16.2" y="0" letter-spacing="-0.06em">T</tspan><tspan x="20.67" y="0" letter-spacing="0em">-Berufsbildung Zürich, 01-2021</tspan></text>
+  </g>
+  <g clip-path="url(#a)">
+    <line x1="0.05" y1="516.42" x2="749.05" y2="516.42" fill="none" stroke="#e5007b" stroke-linejoin="round" stroke-width="1.8"></line>
+  </g>
+  <polygon points="0 0 0 94.56 749 75.65 749 0 0 0" fill="#a2bc0a"></polygon>
+  <g style="isolation:isolate">
+    <text transform="translate(40.19 54.95)" font-size="36" fill="#fff" font-family="Arial-BoldMT, Arial" font-weight="700" style="isolation:isolate">Modulplan<tspan x="179.96" y="0" letter-spacing="-0.04em"> </tspan><tspan x="188.63" y="0">Applikationsentwicklung</tspan></text>
+  </g>
+  <rect x="477.44" y="394.32" width="27.24" height="25.32" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <rect width="749" height="540" fill="none"></rect>
+  <g clip-path="url(#b)">
+    <image width="58" height="54" transform="translate(477.46 394.32) scale(0.47)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA2CAYAAACWeYpTAAAACXBIWXMAABeHAAAXhwEmAiv9AAAFMElEQVRoQ+Wa63abMBCEBzup077/wyZ2gf6AQaNhJYRN3DbZc3SEGxD6NHsR0G4cR3wHO22d8FXsZeuER6zrum7rHNr4ya7VHTm+gXXW12y0/nDwQxQVwK7SID2Qw62artkR0A+BGuBJem0RMG0EMEg/2O8F+lHYu1w3AGQ7B82BaVRPAfugKfjdwLsVnSHZFOgFwOvcv6AM2mHtqgr2O2j9fN3ANd4L3KyoqUgAwr0C+CHHBC+pSXNVCXqb++t8zN9UeLe6TYoKJCdOwB/WqOgZ5bgsGYGp7A3TeFdpBAZ2xu4mqEFSKYK9AbjMx3RZ3YRoUoH0NE9UdPcBubdw8bjQN8zqtsJWQQNIqnjBBPmGBHmez1V37JHD6oQU0DN1Kbnx39WaYDcVxRryDcBP5JBMMFHm1JIRgW6Bvdo5DsoS1NVgi6CSXRmThPyFBMlYHLDOkmzuvmoOqxlcQ4GLycSmxnEHVCwELUBekJS8YJoQS4NmRgWtxSctgtXrmcW5qEBempo2FjXXZXJQNVVJhdSM6O4KlCGBNPlhPo42C0xIJ0z3J6Sf16NgK1BT84ykpmZXIEF+ICmqN22B5N8761dqzecqrOeDAZOqQ6RqSVGqyfReg7wiuWyrim56roPSKABhmRzdk7hYmWWgpqbGJ4E18XhcRpl1r+m1HI+u3UnTkFrtnKIMHCmqSUi3dkzrAz4HUk3H6THN6YYUTioERbgiZeXVPLwmAXl8MsXXyoi62pGm7tsjvy9dmuGl8zxhcs6sDDmolxWtZUAOGmXXo60EywVWN14go4EWUHs6UUXVHXpr1SJ9oDmwgupGg3NdwdYU1QJOUN7o3ux6jymkNt43Al1ZKUYVlhfyZqO1Z1oEyrl21jKrgXIAmq7sswGB3IN8kauQQOy67PWY9ix3bTFVlH0ICcSKAmW3jOD/C3NQByy5yN8wva/Ow3NG6G01RaOgj5LUM80TD7DOyqFFoHqRXuyQ1eA/2HyRvRr4U9NK1ZLramHmALzRZs062HgPreu8P5DE8Pqe2QIqu30F9cefszV3o6PNleRWT/fePs8QNlKUJ3NfyQdqnq8b6GfBUsmtvffykNHymKaK6uMYb8AnhmiXwusfNXdXPo4pKGNT51h03Qx0HEd+rnPQG9KDroNyYKoOPAZbgtTPHcB0P/9k0QYqpr5/xdpdCeulx59o9gB30jMfKKS+Qx6QXsoRdklGTe+MTNUIlDHzOl/ipcYzdStslHgUkm85RiTIj7lV1QTKigK5+34gr1+8Kd8j6QR50yUxzOOVJqGLpOWDoUJghfwA8I70BnIB3fVeN4hVvo/R2smb0520znkNpjvrJNRVOa5CMvkwszvkO9IbyKqaQF1RIGU2YF1CRqTkoBlZU31tx+JJx9XU0sWYVEiqWY1NWhHUVAWmQYE0YWZdZmKdLD3BS5CDutvrOIxv1vIrckiq2WMDEthQNEhMy5+QAHqkWHJ1VEnNxjQFVY+hJ2mO0KbvcTchgW3XjWAdkjsT/xjsrg7Erut/99LG7MrjbBfUAgk0gAIrWFVIV/2GvKj79jCCdsW5mOquuinI4r4VEmgEBTJYDq6wunvSbOkxB6TY4xh0U1XyZr1u2kfshATQ/r9S1OQbDeNLd0y+gyLkiZdjvVgeCr0ce0Lb/Iwf2V2gAPyFt2bOKHsqqBpBI2D9t7sBaXeD0gLgUiYtJR/2Gqv6+yFA2sOgNPuo43AR7Gg9j5ffRwDSDgNV8y9Ze+xIOLVPAf0XLUoQX9K+DegfisE/ic0dwVUAAAAASUVORK5CYII=" style="isolation:isolate"></image>
+  </g>
+  <path d="M481.58,405.18c0-4.7,4.24-8.52,9.48-8.52s9.48,3.82,9.48,8.52-4.24,8.52-9.48,8.52-9.48-3.82-9.48-8.52" transform="translate(0 0)" fill="#99c23b" fill-rule="evenodd" opacity="0.21" style="isolation:isolate"></path>
+  <ellipse cx="491.06" cy="405.18" rx="9.48" ry="8.52" fill="none" stroke="#99c23b" stroke-linejoin="round" stroke-width="1.56"></ellipse>
+  <text transform="translate(107.46 115.77)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">1. Lehrjahr</text>
+  <text transform="translate(57.71 128.8)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">Berufsschule</text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.5 144.8)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">
+      <tspan letter-spacing="-0.07em">1</tspan>
+      <tspan x="3.37" y="0">17</tspan>
+    </text>
+  </g>
+  <text transform="translate(168.17 128.56)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">üK</text>
+  <text transform="translate(297.77 115.77)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">2. Lehrjahr</text>
+  <g style="isolation:isolate">
+    <text transform="translate(244.33 128.8)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">Beru</text>
+    <text transform="translate(261.57 128.8)" font-size="8" font-family="ArialMT, Arial" letter-spacing="-0.01em" style="isolation:isolate">f</text>
+    <text transform="translate(264.2 128.8)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">sschule</text>
+  </g>
+  <text transform="translate(360.3 128.56)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">üK</text>
+  <text transform="translate(491.02 115.77)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">3. Lehrjahr</text>
+  <g style="isolation:isolate">
+    <text transform="translate(643.94 115.77)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">4. Lehrjahr</text>
+    <text transform="translate(640.25 128.77)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">Beru</text>
+    <text transform="translate(657.49 128.77)" font-size="8" font-family="ArialMT, Arial" letter-spacing="-0.01em" style="isolation:isolate">f</text>
+    <text transform="translate(660.11 128.77)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">sschule</text>
+  </g>
+  <g style="isolation:isolate">
+    <text transform="translate(437.58 128.8)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">Beru</text>
+    <text transform="translate(454.82 128.8)" font-size="8" font-family="ArialMT, Arial" letter-spacing="-0.01em" style="isolation:isolate">f</text>
+    <text transform="translate(457.45 128.8)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">sschule</text>
+  </g>
+  <text transform="translate(553.55 128.56)" font-size="8" font-family="ArialMT, Arial" style="isolation:isolate">üK</text>
+  <text transform="translate(54.86 144.81)" font-size="7" font-family="ArialMT, Arial">Informatik- und<tspan x="0" y="8.4">Netzinfrastruktur für </tspan><tspan x="0" y="16.8">ein kleines</tspan><tspan x="0" y="25.2">Unternehmen </tspan><tspan x="0" y="33.6">realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(134.16 144.8)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">187*</text>
+  </g>
+  <text transform="translate(154.52 144.81)" font-size="7" font-family="ArialMT, Arial">IC<tspan x="7" y="0" letter-spacing="-0.06em">T</tspan><tspan x="10.89" y="0">-Arbeitsplatz</tspan><tspan x="0" y="8.4">mit Betriebssystem</tspan><tspan x="0" y="16.8">in Betrieb</tspan><tspan x="0" y="25.2">nehmen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(134.16 199.85)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">106*</text>
+  </g>
+  <text transform="translate(154.52 199.86)" font-size="7" font-family="ArialMT, Arial">Datenbanken <tspan x="0" y="8.4">abfragen,</tspan><tspan x="0" y="16.8">bearbeiten und </tspan><tspan x="0" y="25.2">warten</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(323.78 199.85)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">295*</text>
+  </g>
+  <text transform="translate(344.14 199.86)" font-size="7" font-family="ArialMT, Arial">Backend für <tspan x="0" y="8.4">Applikationen</tspan><tspan x="0" y="16.8">realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(323.78 244.83)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">210*</text>
+  </g>
+  <text transform="translate(344.14 244.84)" font-size="7" font-family="ArialMT, Arial">Public Cloud für <tspan x="0" y="8.4">Anwendungen</tspan><tspan x="0" y="16.8">nutzen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(323.78 144.02)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">294*</text>
+  </g>
+  <text transform="translate(344.14 144.03)" font-size="7" font-family="ArialMT, Arial">Frontend einer <tspan x="0" y="8.4">interaktiven</tspan><tspan x="0" y="16.8" letter-spacing="-0.02em">W</tspan><tspan x="6.48" y="16.8">ebapplikation </tspan><tspan x="0" y="25.2">realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(516.44 144.02)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">223*</text>
+  </g>
+  <text transform="translate(536.8 144.03)" font-size="7" font-family="ArialMT, Arial">Multi-User<tspan x="31.89" y="0" letter-spacing="-0.06em"> </tspan><tspan x="33.45" y="0">Applikatio</tspan><tspan x="63.8" y="0">-</tspan><tspan x="0" y="8.4">nen objektorientiert</tspan><tspan x="0" y="16.8">realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(516.44 200.55)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">335*</text>
+  </g>
+  <text transform="translate(536.8 200.56)" font-size="7" font-family="ArialMT, Arial">Mobile-Applikation<tspan x="0" y="8.4">realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(134.16 244.48)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">216</text>
+  </g>
+  <text transform="translate(148.52 244.49)" font-size="7" font-family="ArialMT, Arial">Internet of <tspan x="0" y="8.4">Everything-Endgeräte </tspan><tspan x="0" y="16.8">in bestehende </tspan><tspan x="0" y="25.2">Plattform integrieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.29 143.81)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">
+      <tspan letter-spacing="-0.07em">1</tspan>
+      <tspan x="3.37" y="0">14</tspan>
+    </text>
+  </g>
+  <text transform="translate(241.65 143.82)" font-size="7" font-family="ArialMT, Arial">Codierungs-, <tspan x="0" y="8.4">Kompressions-</tspan><tspan x="0" y="16.8">und </tspan><tspan x="13.62" y="16.8" letter-spacing="-0.06em">V</tspan><tspan x="17.91" y="16.8">erschlusse</tspan><tspan x="51.37" y="16.8">-</tspan><tspan x="0" y="25.2">lungsverfahren</tspan><tspan x="0" y="33.6">einsetzen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.86 199.5)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">320</text>
+  </g>
+  <text transform="translate(242.22 199.51)" font-size="7" font-family="ArialMT, Arial">Objektorientiert<tspan x="0" y="8.4">programmieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.1 244.48)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">346</text>
+  </g>
+  <text transform="translate(241.46 244.49)" font-size="7" font-family="ArialMT, Arial">Cloud Lösungen<tspan x="0" y="8.4">konzipieren und </tspan><tspan x="0" y="16.8">realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(419.86 244.48)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">183</text>
+  </g>
+  <text transform="translate(434.22 244.49)" font-size="7" font-family="ArialMT, Arial">Applikationssicherheit<tspan x="0" y="8.4">implementieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(517.85 244.48)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">
+      <tspan letter-spacing="-0.07em">1</tspan>
+      <tspan x="3.37" y="0">10</tspan>
+    </text>
+  </g>
+  <text transform="translate(532.21 244.49)" font-size="7" font-family="ArialMT, Arial">Daten mit<tspan x="29.96" y="0" letter-spacing="-0.02em"> </tspan><tspan x="31.77" y="0" letter-spacing="-0.11em">T</tspan><tspan x="35.27" y="0">ools</tspan><tspan x="0" y="8.4">analysieren und </tspan><tspan x="0" y="16.8">darstellen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(614.22 244.48)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">241</text>
+  </g>
+  <text transform="translate(628.58 244.49)" font-size="7" font-family="ArialMT, Arial">Innovative IC<tspan x="40.85" y="0" letter-spacing="-0.06em">T</tspan><tspan x="44.74" y="0">-Lösungen </tspan><tspan x="0" y="8.4">initialisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(614.22 200.2)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">324</text>
+  </g>
+  <text transform="translate(628.58 200.21)" font-size="7" font-family="ArialMT, Arial">DevOps-Prozesse mit<tspan x="0" y="8.4" letter-spacing="-0.11em">T</tspan><tspan x="3.5" y="8.4">ools unterstützen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(614.22 143.67)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">321</text>
+  </g>
+  <text transform="translate(628.58 143.68)" font-size="7" font-family="ArialMT, Arial">
+    <tspan letter-spacing="-0.06em">V</tspan>
+    <tspan x="4.28" y="0">erteilte Systeme </tspan>
+    <tspan x="0" y="8.4">programmieren</tspan>
+  </text>
+  <g style="isolation:isolate">
+    <text transform="translate(614.22 289.63)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">245</text>
+  </g>
+  <text transform="translate(628.58 289.64)" font-size="7" font-family="ArialMT, Arial">Innovative IC<tspan x="40.85" y="0" letter-spacing="-0.06em">T</tspan><tspan x="44.74" y="0">-Lösungen</tspan><tspan x="0" y="8.4">umsetzen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(517.85 289.63)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">217</text>
+  </g>
+  <text transform="translate(532.21 289.64)" font-size="7" font-family="ArialMT, Arial">Service für Internet<tspan x="0" y="8.4">of Everything </tspan><tspan x="0" y="16.8">konzipieren, planen </tspan><tspan x="0" y="25.2">und aufbauen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(419.86 289.63)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">306</text>
+  </g>
+  <text transform="translate(434.22 289.64)" font-size="7" font-family="ArialMT, Arial">Kleinprojekte im <tspan x="0" y="8.4">eigenen Berufsumfeld</tspan><tspan x="0" y="16.8">abwickeln</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(517.85 334.78)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">185</text>
+  </g>
+  <text transform="translate(532.21 334.79)" font-size="7" font-family="ArialMT, Arial">Sicherheitsmassnah<tspan x="63.03" y="0">-</tspan><tspan x="0" y="8.4">men für KMU-I</tspan><tspan x="45.51" y="8.4" letter-spacing="-0.02em">T</tspan><tspan x="0" y="16.8">analysieren und </tspan><tspan x="0" y="25.2">implementieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(419.86 199.5)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">450</text>
+  </g>
+  <text transform="translate(434.22 199.51)" font-size="7" font-family="ArialMT, Arial">Applikationen testen</text>
+  <g style="isolation:isolate">
+    <text transform="translate(419.86 143.67)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">323</text>
+  </g>
+  <text transform="translate(434.22 143.68)" font-size="7" font-family="ArialMT, Arial">Funktional program<tspan x="60.31" y="0">-</tspan><tspan x="0" y="8.4">mieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.86 289.63)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">322</text>
+  </g>
+  <text transform="translate(242.22 289.64)" font-size="7" font-family="ArialMT, Arial">Benutzerschnittstellen<tspan x="0" y="8.4">entwerfen und</tspan><tspan x="0" y="16.8">implementieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.86 334.35)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">165</text>
+  </g>
+  <text transform="translate(242.22 334.36)" font-size="7" font-family="ArialMT, Arial">NoSQL-Datenbanken<tspan x="0" y="8.4">einsetzen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.86 378.15)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">347</text>
+  </g>
+  <text transform="translate(242.22 378.16)" font-size="7" font-family="ArialMT, Arial">Dienst mit Container<tspan x="0" y="8.4">anwenden</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.86 411.6)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">426</text>
+  </g>
+  <text transform="translate(242.22 411.61)" font-size="7" font-family="ArialMT, Arial">Software mit agilen<tspan x="0" y="8.4">Methoden entwickeln</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(322.69 412.6)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">109</text>
+  </g>
+  <text transform="translate(337.05 412.61)" font-size="7" font-family="ArialMT, Arial">Dienste in der<tspan x="0" y="8.4">Public Cloud </tspan><tspan x="0" y="16.8">betreiben</tspan><tspan x="0" y="25.2">und überwachen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(322.69 378.15)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">107</text>
+  </g>
+  <text transform="translate(337.05 378.16)" font-size="7" font-family="ArialMT, Arial">IC<tspan x="7" y="0" letter-spacing="-0.06em">T</tspan><tspan x="10.89" y="0">-Lösungen mit</tspan><tspan x="0" y="8.4">Blockchain</tspan><tspan x="33.85" y="8.4" letter-spacing="-0.02em"> </tspan><tspan x="35.67" y="8.4" letter-spacing="-0.11em">T</tspan><tspan x="39.17" y="8.4">echnolo</tspan><tspan x="63.69" y="8.4">-</tspan><tspan x="0" y="16.8">gie umsetzen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(322.69 334.35)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">190</text>
+  </g>
+  <text transform="translate(337.05 334.36)" font-size="7" font-family="ArialMT, Arial">
+    <tspan letter-spacing="-0.02em">V</tspan>
+    <tspan x="4.54" y="0">irtualisierungs-</tspan>
+    <tspan x="0" y="8.4">Plattform aufbauen</tspan>
+    <tspan x="0" y="16.8">und betreiben</tspan>
+  </text>
+  <g style="isolation:isolate">
+    <text transform="translate(322.69 289.63)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">248</text>
+  </g>
+  <text transform="translate(337.05 289.64)" font-size="7" font-family="ArialMT, Arial">IC<tspan x="7" y="0" letter-spacing="-0.06em">T</tspan><tspan x="10.89" y="0">-Lösungen mit</tspan><tspan x="0" y="8.4">aktuellen</tspan><tspan x="28.02" y="8.4" letter-spacing="-0.02em"> </tspan><tspan x="29.84" y="8.4" letter-spacing="-0.11em">T</tspan><tspan x="33.34" y="8.4">echnolo-</tspan><tspan x="0" y="16.8">gien realisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(227.86 457)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">254</text>
+  </g>
+  <text transform="translate(242.22 456.73)" font-size="6.6" font-family="ArialMT, Arial">Geschäftsprozesse<tspan x="0" y="7.92">im eigenen Berufsum</tspan><tspan x="62.36" y="7.92">-</tspan><tspan x="0" y="15.84">feld beschreiben</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(322.69 457)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">259</text>
+  </g>
+  <text transform="translate(337.05 456.73)" font-size="6.6" font-family="ArialMT, Arial">IC<tspan x="6.6" y="0" letter-spacing="-0.06em">T</tspan><tspan x="10.27" y="0">-Lösungen mit</tspan><tspan x="0" y="7.92">Machine Learning</tspan><tspan x="0" y="15.84">entwickeln</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 199.85)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">431</text>
+  </g>
+  <text transform="translate(54.73 199.86)" font-size="7" font-family="ArialMT, Arial">Aufträge im eigenen <tspan x="0" y="8.4">Berufsumfeld </tspan><tspan x="0" y="16.8">selbständig </tspan><tspan x="0" y="25.2">durchführen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 244.67)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">319</text>
+  </g>
+  <text transform="translate(54.73 244.68)" font-size="7" font-family="ArialMT, Arial">Applikationen <tspan x="0" y="8.4">entwerfen</tspan><tspan x="0" y="16.8">und implementieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 289.29)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">162</text>
+  </g>
+  <text transform="translate(54.73 289.3)" font-size="7" font-family="ArialMT, Arial">Daten analysieren<tspan x="0" y="8.4">und modellieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 334.01)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">231</text>
+  </g>
+  <text transform="translate(54.73 334.02)" font-size="7" font-family="ArialMT, Arial">Datenschutz und<tspan x="0" y="8.4">Datensicherheit</tspan><tspan x="0" y="16.8">anwenden</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 378.15)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">164</text>
+  </g>
+  <text transform="translate(54.73 378.16)" font-size="7" font-family="ArialMT, Arial">Datenbanken <tspan x="0" y="8.4">erstellen und Daten</tspan><tspan x="0" y="16.8">einfügen</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 411.81)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">122</text>
+  </g>
+  <text transform="translate(54.73 411.82)" font-size="7" font-family="ArialMT, Arial">Abläufe mit einer<tspan x="0" y="8.4">Scriptsprache </tspan><tspan x="0" y="16.8">automatisieren</tspan></text>
+  <g style="isolation:isolate">
+    <text transform="translate(40.37 457)" font-size="7" font-family="ArialMT, Arial" style="isolation:isolate">293</text>
+  </g>
+  <text transform="translate(54.73 457.01)" font-size="7" font-family="ArialMT, Arial">
+    <tspan letter-spacing="-0.02em">W</tspan>
+    <tspan x="6.48" y="0">ebauftritt erstellen</tspan>
+    <tspan x="0" y="8.4">und verö</tspan>
+    <tspan x="27.24" y="8.4" letter-spacing="-0.02em">f</tspan>
+    <tspan x="29.06" y="8.4">fentlichen</tspan>
+  </text>
+  <text transform="translate(514.67 409.87)" font-size="12" font-family="ArialMT, Arial">üK Standardweg Kanton Zürich</text>
+</svg>
